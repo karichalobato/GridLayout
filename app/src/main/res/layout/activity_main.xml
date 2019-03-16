@@ -10,6 +10,8 @@
 
     <ImageView
         android:id="@+id/pic1"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_02"
@@ -19,6 +21,8 @@
 
     <ImageView
         android:id="@+id/pic2"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_03"
@@ -28,6 +32,8 @@
         />
     <ImageView
         android:id="@+id/pic3"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_01"
@@ -38,6 +44,8 @@
 
     <ImageView
         android:id="@+id/pic4"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_03"
@@ -47,6 +55,8 @@
         />
     <ImageView
         android:id="@+id/pic5"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_01"
@@ -56,6 +66,8 @@
         />
     <ImageView
         android:id="@+id/pic6"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_02"
@@ -65,6 +77,8 @@
         />
     <ImageView
         android:id="@+id/pic7"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_01"
@@ -74,6 +88,8 @@
         />
     <ImageView
         android:id="@+id/pic8"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_02"
@@ -83,6 +99,8 @@
         />
     <ImageView
         android:id="@+id/pic9"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_03"
@@ -92,6 +110,8 @@
         />
     <ImageView
         android:id="@+id/pic10"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_03"
@@ -101,6 +121,8 @@
         />
     <ImageView
         android:id="@+id/pic11"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_01"
@@ -110,6 +132,8 @@
         />
     <ImageView
         android:id="@+id/pic12"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_02"
@@ -119,6 +143,8 @@
         />
     <ImageView
         android:id="@+id/pic13"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_02"
@@ -128,6 +154,8 @@
         />
     <ImageView
         android:id="@+id/pic14"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_03"
@@ -137,6 +165,8 @@
         />
     <ImageView
         android:id="@+id/pic15"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="7dp"
         android:layout_width="@dimen/standard_width"
         android:layout_height="@dimen/standard_height"
         android:src="@drawable/image_01"
